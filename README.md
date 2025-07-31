@@ -10,8 +10,20 @@ Created with minecraft editor, provided by Mojang Studio (see [mcbe editor doc](
 
 ![](https://github.com/user-attachments/assets/1e73ae9f-4fec-42db-b032-ecd3a837beff "peppa pig")
 
-How to download
+## How to download
 - Be sure you can change extention names
 - Download source code as *.zip*
 
 <img width="511" height="365" alt="step 1" src="https://github.com/user-attachments/assets/850f64a8-333a-4a93-977b-cb1180bc789f" />
+
+- way 1 : If you know where is your minecraft bedrock directory, unzip the file an drag it on the resource pack folder
+- way 2 : Change *.zip* extention to *.mcpack* and double-click on it
+- way 3 : go to https://mconverter.eu/convert/zip/mcpack/ and convert zip to mcpack, download and double-click on it
+
+## How to help
+- Fork this repo
+- Add your content
+- Create a Pull Request
+- If your content is helpful :
+  - It will be merged
+  - Your name will appear on the curseforge page
