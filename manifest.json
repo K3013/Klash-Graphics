@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§4Klash§r Shaders© | §2P§3B§5R§r update !!!!!",
+    "description": "A shaders pack for improving your experience \nBy §4K3013§r \nlicensed under the 'An-untagged-dev-team's license \nChangelog: \n- Passed Alpha to Release \n- Better PBR textures ( without any height or normal ) \n- Custom splash texts \n- Modified orbital angle",
+    "uuid": "8d3f359d-85fe-4ada-8101-5fa194d5dccf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      90
+    ]
+  },
+  "modules": [
+    {
+      "description": "An untagged dev team's project",
+      "type": "resources",
+      "uuid": "ae4716a3-2a5b-4d4f-b586-4e8993d2786f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "metadata": {
+    "generated_with": {
+      "mctoolsweb": [
+        "0.11.1"
+      ]
+    }
+  }
+}
