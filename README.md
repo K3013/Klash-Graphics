@@ -27,3 +27,7 @@ Created with minecraft editor, provided by Mojang Studio (see [mcbe editor doc](
 - If your content is helpful :
   - It will be merged
   - Your name will appear on the curseforge page
+## Trailer :
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=YKSxw8O-2VE" type="video/mp4">
+</video>
