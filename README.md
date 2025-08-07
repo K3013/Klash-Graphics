@@ -28,6 +28,4 @@ Created with minecraft editor, provided by Mojang Studio (see [mcbe editor doc](
   - It will be merged
   - Your name will appear on the curseforge page
 ## Trailer :
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=YKSxw8O-2VE" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YKSxw8O-2VE" title="Klash Shaders : Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
