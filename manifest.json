@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "name": "§4Klash§r Graphics (holydays end rewamp)",
+    "name": "§4Klash§r Graphics Deferred",
     "description": "A shaders pack for improving your experience \nBy §4K3013§r\nv7",
-    "uuid": "d4416d1a-cbba-4f03-a742-ec959c3d9421",
+    "uuid": "2c5a2439-2bb5-4a23-8f53-cbfbec02b084",
     "version": [
       1,
       0,
@@ -19,7 +19,7 @@
     {
       "description": "An untagged dev team's project",
       "type": "resources",
-      "uuid": "0ad9f056-ac4b-454a-b2b5-aa52038f3288",
+      "uuid": "95c9e9d6-d698-4964-a693-381c018ce8e7",
       "version": [
         1,
         0,
